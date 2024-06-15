@@ -3,8 +3,6 @@
 @file
 @brief 模拟设备测试main.py
 
-@details 由用户自主配置TCP\串口模式，定时xx分钟调节AIS频点
-
 @author Iamruzi
 @date 2024-05-30
 @version 1.0
